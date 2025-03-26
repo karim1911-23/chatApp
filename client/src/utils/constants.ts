@@ -1,4 +1,4 @@
-export const API_BASE_URL = "https://chat-app-mza1.vercel.app/";
+export const API_BASE_URL = "https://chat-app-mza1.vercel.app";
 
 export const CLOUD_NAME = "dow1nxdl2";
 
